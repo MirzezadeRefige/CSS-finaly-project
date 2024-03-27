@@ -1,0 +1,321 @@
+@media only screen and (max-width: 768px) {
+  header .nav {
+    display: none;
+  }
+  .rectangle {
+    display: none;
+  }
+  .card {
+    /* display: none ; */
+    height: 0 !important;
+    width: 0 !important;
+  }
+  .all-divs .rectangle .search-icon {
+    display: block !important;
+  }
+  .all-divs .card span {
+    display: none;
+  }
+  .all-divs{
+    margin-left: 2% !important;
+  }
+  header .menu {
+    display: block !important;
+  }
+  header {
+    height: 100% !important;
+  }
+  .sect-1 .text-div1 {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .sect-1 {
+    margin-top: 5%;
+    background-position: 100%;
+    background-size: cover;
+  }
+  .sect-1 .text-div1 h1 {
+    color: #274c5b;
+    font-family: "Roboto", sans-serif;
+    font-size: 120% !important;
+    font-style: normal;
+    font-weight: 800;
+  }
+  .sect-1 .text-div1 {
+    width: 20%;
+    height: 80%;
+    /* padding-top: 150px; */
+    /* padding: 170px 0 0 200px; */
+    padding: 10% 0 11% 13%;
+  }
+  .sect-1 span {
+    font-size: 100% !important;
+  }
+  .sect-2 {
+    /* flex-wrap: wrap !important; */
+    flex-direction: column !important;
+  }
+  .sect-2 .div1-sect2 {
+    margin: 0 !important;
+    height: 40% !important;
+    width: 90% !important;
+  }
+  .sect-2 .div2-sect2 {
+    margin: 0 !important;
+    height: 40% !important;
+    width: 90% !important;
+  }
+  .sect-2 .text-div1 {
+    margin: 0 !important;
+    width: 100%;
+  }
+  .sect-2 .text-div2 {
+    margin: 0 !important;
+    width: 100%;
+  }
+  .sect-3 {
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 100%;
+  }
+  .sect-3 .img-sect3 img {
+    width: 100%;
+    height: 100%;
+    margin: 50px 0 0 150px !important;
+  }
+  .sect-3 .about-us {
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    margin: 9% 0 0 2% !important;
+    text-align: center;
+  }
+  /* .sect-3 .about-us .organic-food {
+  display: flex;
+  margin-top: 25px;
+  width: 2%;
+  display: flex;
+} */
+  .sect-3 .about-us p {
+    width: 100%;
+  }
+  .sect-3 .about-us h4 {
+    width: 100%;
+  }
+  .sect-3 .div {
+    width: 90%;
+  }
+  .sect-3 .about-us .organic-food {
+    margin-top: 25px;
+    width: 100% !important;
+    flex-direction: column;
+    margin-left: 5%;
+  }
+
+  .sect-3 .about-us .organic-food .img-div-3 {
+    width: 20% !important;
+    height: 40% !important;
+    border-radius: 20px;
+    background-color: #f9f8f8 !important;
+    margin-left: 36% !important;
+  }
+  .sect-3 .about-us .img-1-of3 {
+    width: 50% !important;
+    height: 50%;
+    margin: 20% 0 0 8%;
+    z-index: 10;
+  }
+  .sect-3 .circle-img-2 {
+    display: none;
+  }
+  .sect-3 .circle-img-1 {
+    display: none;
+  }
+  .sect-4 .boxes-of-4 {
+    /* justify-content: center; */
+    margin-left: 11% !important;
+  }
+  .sect-3 .about-us .btn-3 {
+    margin: 3% 0 5% 27%;
+  }
+  .sect-4 .btn-4 {
+    margin: 3% 0 5% 27% !important;
+  }
+  .sect-4 .shop .span1 {
+    margin-left: 33% !important;
+  }
+  .sect-5 {
+    width: 100%;
+    height: 100%;
+    background-image: none !important;
+  }
+  .sect-5 img {
+    text-align: left;
+    width: 40% !important;
+    height: 100%;
+  }
+  .circles {
+    flex-direction: column;
+    margin-left: 26% !important;
+  }
+  .sect-5 .circle {
+    /* margin-bottom: 1%; */
+  }
+  .sect-6 .boxes-6 {
+    flex-direction: column;
+  }
+  .sect-6 .content-div {
+    flex-direction: column;
+    text-align: center;
+  }
+  .sect-6 h1 {
+    width: 100%;
+  }
+  .sect-6 .container-6 {
+    text-align: center;
+  }
+  .sect-6 .btn-6 {
+    margin-top: 4%;
+  }
+  .sect-1 .section-7-1 {
+    width: 100%;
+    /* display: none !important; */
+  }
+  .sect-7 .eco-friendly {
+    width: 100%;
+    margin-top: 90% !important;
+    margin: 0 !important;
+  }
+  .sect-7 .text-7 {
+    margin-left: 5% !important;
+  }
+  .sect-7 .eco-friendly p {
+    width: 100% !important;
+  }
+  .sect-7 .eco-friendly h4 {
+    width: 100% !important;
+  }
+  .sect-7 {
+    flex-direction: column;
+  }
+  .sect-8 .container-8 {
+    flex-direction: column;
+  }
+  .sect-8 .div-8-1 {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  .sect-8 .div-8-2 {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  .sect-8 .div-8-3 {
+    width: 100% !important;
+    height: 100% !important;
+    margin-top: 1% !important;
+  }
+  .sect-8 .text-div {
+    margin-top: 5% !important;
+  }
+  .sect-9 .container-9 .content-div-9 {
+    flex-direction: column;
+  }
+  .sect-9 .content-div-9 {
+    flex-direction: column;
+  }
+  .sect-9 .cards {
+    flex-direction: column;
+  }
+  .sect-9 .container-9 .card-1 {
+    position: relative;
+    width: 100% !important;
+    height: 50%;
+  }
+  .sect-9 .content-div-9 h1 {
+    width: 100%;
+  }
+  .sect-9 .container-9 {
+    margin-top: 20% !important;
+  }
+  .sect-9 .container-9 .card-2 {
+    position: relative;
+    width: 100% !important;
+    height: 50%;
+    margin-top: 20%;
+  }
+  .sect-9 .container-9 .cards{
+    margin-bottom: 28% !important;
+  }
+  .sect-9 .container-9 .cards .info-card {
+    margin-top: 46% !important;
+    margin-left: 30% !important;
+    width: 80% !important;
+    height: 80% !important;
+    border-radius: 25px;
+    background: #fff;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.053);
+  }
+  .sect-9 .container-9 .cards .info-card .small-info h1 {
+    width: 90%;
+  }
+  .sect-9 .container-9 .cards .info-card .small-info p {
+    width: 80% !important;
+  }
+  .last-section {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  border-radius: 0 !important;
+  }
+  .last-section .container-last {
+    width: 100% !important;
+  }
+  .last-section .container-last {
+    flex-direction: column;
+  }
+  .last-section .container-last form{
+    flex-direction: column !important;
+
+  }
+  .last-section h1{
+    padding: 1% 0 !important;
+  }
+  footer .container-end{
+    flex-direction: column;
+    margin: 0 !important;
+  }
+  .line-footer{
+    display: none;
+  }
+  footer{
+    width: 100%;
+    height: 100%;
+  }
+  footer .left-div{
+    margin: 10%  0 5% 20%;
+    text-align: center !important;
+  }
+  footer .center-div{
+    margin: 10% 0;
+    width: 100% !important;
+  }
+  footer .center-div p{
+    margin-left: 0 !important;
+    width: 300px !important;
+  }
+  footer .center-div .logo-footer{
+    margin-left: 40% !important;
+  }
+  footer .center-div .icons{
+    margin: 28% 0 0 20% !important;
+  }
+  footer .right-div{
+    margin: 10% 0 10% 11% !important;
+    text-align: center !important;
+  }
+  .line-horizontal{
+    width: 99% !important;
+  }
+}
